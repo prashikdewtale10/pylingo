@@ -1,0 +1,20 @@
+# Include the README file
+include README.md
+
+# Include the license file
+include LICENSE
+
+# Include the requirements file
+include requirements.txt
+
+# Include all Python files in the translate package
+recursive-include translate *.py
+
+# Include all Python files in the tests package
+recursive-include tests *.py
+
+# Include any non-code files (if applicable)
+recursive-include translate *.txt *.md *.json
+
+# Exclude compiled Python files
+global-exclude *.pyc
