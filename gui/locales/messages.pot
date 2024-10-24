@@ -1,0 +1,59 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-10-20 18:13+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: gui/pylingo_gui.py:38
+msgid "PyLingo Translator"
+msgstr ""
+
+#: gui/pylingo_gui.py:41
+msgid "Enter text below or upload a file:"
+msgstr ""
+
+#: gui/pylingo_gui.py:42
+msgid "Choose a text file"
+msgstr ""
+
+#: gui/pylingo_gui.py:47
+msgid "File content:"
+msgstr ""
+
+#: gui/pylingo_gui.py:50
+msgid "Enter the text you want to translate:"
+msgstr ""
+
+#: gui/pylingo_gui.py:53
+msgid "Select target language:"
+msgstr ""
+
+#: gui/pylingo_gui.py:58
+msgid "Translate"
+msgstr ""
+
+#: gui/pylingo_gui.py:72
+msgid "Translated Text"
+msgstr ""
+
+#: gui/pylingo_gui.py:74
+msgid "Please enter some text or upload a file for translation!"
+msgstr ""
+
+#: gui/pylingo_gui.py:77
+msgid "Clear"
+msgstr ""
+

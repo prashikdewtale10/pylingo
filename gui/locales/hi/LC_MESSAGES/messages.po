@@ -1,0 +1,59 @@
+# Hindi translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-10-20 18:13+0530\n"
+"PO-Revision-Date: 2024-10-20 18:15+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: hi\n"
+"Language-Team: hi <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: gui/pylingo_gui.py:38
+msgid "PyLingo Translator"
+msgstr "पायलिंगो अनुवादक"
+
+#: gui/pylingo_gui.py:41
+msgid "Enter text below or upload a file:"
+msgstr "नीचे पाठ दर्ज करें या एक फ़ाइल अपलोड करें:"
+
+#: gui/pylingo_gui.py:42
+msgid "Choose a text file"
+msgstr "एक पाठ फ़ाइल चुनें"
+
+#: gui/pylingo_gui.py:47
+msgid "File content:"
+msgstr "फ़ाइल सामग्री:"
+
+#: gui/pylingo_gui.py:50
+msgid "Enter the text you want to translate:"
+msgstr "वह पाठ दर्ज करें जिसे आप अनुवाद करना चाहते हैं:"
+
+#: gui/pylingo_gui.py:53
+msgid "Select target language:"
+msgstr "लक्ष्य भाषा का चयन करें:"
+
+#: gui/pylingo_gui.py:58
+msgid "Translate"
+msgstr "अनुवाद करें"
+
+#: gui/pylingo_gui.py:72
+msgid "Translated Text"
+msgstr "अनुवादित पाठ"
+
+#: gui/pylingo_gui.py:74
+msgid "Please enter some text or upload a file for translation!"
+msgstr "कृपया अनुवाद के लिए कुछ पाठ दर्ज करें या एक फ़ाइल अपलोड करें!"
+
+#: gui/pylingo_gui.py:77
+msgid "Clear"
+msgstr "साफ़ करें"
