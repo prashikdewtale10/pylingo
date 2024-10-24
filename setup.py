@@ -1,3 +1,9 @@
+"""
+setup.py
+--------
+This module contains the setup configurations for pylingo python package.
+"""
+
 from setuptools import setup, find_packages
 
 setup(
