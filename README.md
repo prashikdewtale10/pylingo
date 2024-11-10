@@ -1,6 +1,6 @@
 # PyLingo Translator
 
-![PyLingo Logo](media/pylingo_logo.webp)
+![PyLingo Logo](static/pylingo_logo.webp)
 
 **PyLingo** is a lightweight Python package that helps translate text between languages. In this initial version, it supports translations between **English**, **Hindi**, and **Marathi**, using Google Translate API. PyLingo also offers a command-line interface (CLI) and a web interface for ease of use.
 
@@ -61,3 +61,18 @@ To run the web interface using Streamlit:
 ```bash
 streamlit run gui/pylingo_gui.py
 ```
+
+#### PyLinog streamlit web interface 
+
+![PyLingo Logo](static/screenshots/pylingo_web.jpg)
+
+#### PyLingo hindi(hi) translation 
+Translation of english sentance to hindi language.
+
+![PyLingo Logo](static/screenshots/pylingo_hindi_translation.jpg)
+
+#### PyLingo marathi translation
+Transalation of english sentance to marathi language.
+
+![PyLingo Logo](static/screenshots/pylingo_marathi_translation.jpg)
+
